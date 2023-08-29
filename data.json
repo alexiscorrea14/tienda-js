@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "nombre": "Imperial Copa Especial Doble Costura + Base Alpaca Bronce",
+      "precio": 40000,
+      "img":
+      "https://http2.mlstatic.com/D_NQ_NP_871800-MLA70441445107_072023-O.webp",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Mate Imperial Exclusivo Calado De Maestro Platero Cincelado",
+      "precio": 45000,
+      "img":
+        "https://http2.mlstatic.com/D_NQ_NP_839664-MLA51839728180_102022-O.webp",
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Mate Camionero Uruguayo De Alpaca Cincelado De Calabaza",
+      "precio": 20000,
+      "img":
+        "https://http2.mlstatic.com/D_NQ_NP_696817-MLA51184751499_082022-O.webp",
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Mate Imperial Exclusivo Calado De Maestro Platero Calabaza",
+      "precio": 50000,
+      "img":
+        "https://http2.mlstatic.com/D_NQ_NP_937880-MLA51839445786_102022-O.webp",
+      "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Mate Imperial Virola Lisa Premium Calabaza Alpaca Cuero",
+        "precio": 20000,
+        "img":
+          "https://http2.mlstatic.com/D_NQ_NP_869444-MLA54286921377_032023-O.webp",
+        "cantidad": 1
+      },
+      {
+        "id": 6,
+        "nombre": "Imperial Laureles De Bronce Especial Alpaca + Base Premium",
+        "precio": 30000,
+        "img":
+          "https://http2.mlstatic.com/D_NQ_NP_864268-MLA70415750808_072023-O.webp",
+        "cantidad": 1
+      }
+  ]
